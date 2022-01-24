@@ -1,0 +1,30 @@
+{
+  "name": "@tbhcodies/hypixel-js",
+  "version": "1.0.1",
+  "description": "Hypixel npm package",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbfCodies/hypixel-JS-npm-package.git"
+  },
+  "author": "Codies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbfCodies/hypixel-JS-npm-package/issues"
+  },
+  "homepage": "https://github.com/tbfCodies/hypixel-JS-npm-package#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.5.1",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3"
+  }
+}
